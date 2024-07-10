@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/react-native-xupdate.git"
+    "url": "https://github.com/grellen2015/react-native-xupdate-m.git"
   },
-  "author": "xuexiangjys <xuexiangjys@163.com> (http://xuexiangjys.club)",
-  "homepage": "https://github.com/react-native-xupdate",
+  "author": "grellen2015 <grellen@126.com>",
+  "homepage": "https://github.com/grellen2015/react-native-xupdate-m",
   "bugs": {
-    "url": "https://github.com/xuexiangjys/react-native-xupdate/issues"
+    "url": "https://github.com/grellen2015/react-native-xupdate-m/issues"
   },
   "license": "Apache-2.0",
   "devDependencies": {
